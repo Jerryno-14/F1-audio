@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from scipy.io import wavfile
 
 WAV_FILE = "engine.wav"
-START_S = 600.0
+START_S = 700.0
 LENGTH_S = 10.0
 
 fs, x = wavfile.read(WAV_FILE)
