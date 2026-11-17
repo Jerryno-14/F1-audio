@@ -17,7 +17,7 @@ For a four-stroke V6, the engine fires three times per revolution, so the main s
 
 ## Result so far
 
-`rpm_with_shifts.png` and `rpm_estimate.csv` come from a 10 s clip of a real onboard recording (starting at 600 s), with one drop flagged as a possible shift. This has not yet been checked against a known answer on real audio, so treat it as a first result, not a measured accuracy.
+`rpm_with_shifts.png` and `rpm_estimate.csv` come from a 10 s clip of a real onboard recording (starting at 700 s), with three RPM drops flagged as possible shifts. This has not yet been checked against a known answer on real audio, so treat it as a first result, not a measured accuracy.
 
 ## Run it
 
