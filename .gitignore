@@ -1,0 +1,6 @@
+.venv/
+.DS_Store
+__pycache__/
+# Source footage and extracted audio: large and not mine to redistribute
+onboard.mp4
+engine.wav
